@@ -216,8 +216,10 @@ the user will rate the performance of the programs and breed them
 in the generated bots, source texts are not kept separated from
 the engines and control structures
 
-instead, everything is baked-in
+instead, everything is baked-in as "organs"
 so the resulting entity is literally made of textual matter
+
+during execution, organs can evolve so the entity can change
 
 -- corpus
 
