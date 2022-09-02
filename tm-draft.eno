@@ -203,7 +203,7 @@ just use similarity
 the shape of the program will be determined by a genome
 
 the program will be made of buckets, pipes, trees, operators, ...etc.
-it will also incorporate a certain number of text sources as corpus
+it will also incorporate a corpus of several text sources
 
 the user will rate the performance of the programs and breed them
 
@@ -211,7 +211,15 @@ the user will rate the performance of the programs and breed them
 
 
 
+-- corpus
 
+in the generated bots, source texts are not kept separated from
+the engines and control structures
+
+instead, everything is baked-in
+so the resulting entity is literally made of textual matter
+
+-- corpus
 
 
 
