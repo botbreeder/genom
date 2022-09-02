@@ -1,0 +1,231 @@
+
+
+
+
+# draft
+
+
+
+inspi: MiBE Architecture
+
+-- inspi
+
+    Drives
+    like Ww "protecting my daughter"
+
+-- inspi
+
+
+
+consume:
+- if enough -> scan
+- eat/use
+- loop
+
+approach:
+- if can consume -> consume
+- if not smell good -> scan
+- move closer
+- loop
+
+scan:
+- if smells good -> approach
+- if smells bad -> avoid
+- search
+- loop
+
+avoid:
+- if cannot avoid -> fight
+- if not smell bad -> scan
+- move away
+- loop
+
+fight:
+- if enough -> scan
+- hurt
+- loop
+
+
+-- outline
+
+    authoring it like a chatbot => like RIVESCRIPT
+    except it has an inner life
+
+    very scruffy
+
+    able to auto-write
+
+-- outline
+
+
+
+
+
+## Syntax ENO
+
+author: Jane Doe
+email: jane@eno-lang.org
+
+-- my_content
+Multi-line embedded content (e.g. markdown) here ...
+-- my_content
+
+states:
+active = #fff
+hover = #b6b6b6
+
+### cities
+Den Haag: 52.069961, 4.302315
+Málaga: 36.721447, -4.421291
+서울특별시: 37.566984, 126.977041
+
+### cities expanded < cities
+Springfield: 38.790312, -77.186418
+
+
+
+## Stuff
+
+-- search
+
+    searching content => something like LUNR or ELASTICLUNR
+    retrieving it
+
+    working on it
+
+    creating new content
+    modifying existing content
+
+-- search
+
+
+
+-- eno
+
+    the ENO syntax gives us the structure we need to
+    organize things
+
+    like RIVESCRIPT
+    (triggers, template, and so on)
+
+-- eno
+
+
+
+-- freestyle
+
+    completely freestyle authoring
+
+    just sit and write stuff as it comes
+
+-- freestyle
+
+
+
+-- associative
+
+    one of the main principles is
+    associative activation of text
+
+-- associative
+
+
+
+which means: there are "active texts"
+
+
+
+-- an active texts is
+
+    what's on your mind at time T
+
+-- an active texts is
+
+
+
+-- long-term memory
+
+    by contrast,
+    LTM is a tank of texts and links between them...
+
+-- long-term memory
+
+
+
+-- prior work
+
+how to easily write an artificial mind (NthBOT)
+the global process wasn't bad
+
+it's a bit like a giant behavior tree
+you have sections
+inside these sections you have
+    - tests
+    - actions
+
+if a test fails, the rest of the current section is ignored
+
+the control pointer comes in with a payload
+data about what's going on, the current situation
+that's what gets tested
+
+-- prior work
+
+
+
+-- caveat
+
+thing is, NthBOT was too structured
+
+we want Jazz
+
+
+
+so, don't make it too low-level
+let it be scruffy
+
+
+
+also, we don't want wildcards
+just use similarity
+
+-- caveat
+
+
+
+
+
+## genetic programming
+
+
+-- concept
+
+the shape of the program will be determined by a genome
+
+the program will be made of buckets, pipes, trees, operators, ...etc.
+it will also incorporate a certain number of text sources as corpus
+
+the user will rate the performance of the programs and breed them
+
+-- concept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
